@@ -20,10 +20,6 @@ h1 {
     letter-spacing: 4px;
 }
 
-h1 a {
-    text-decoration: none;
-}
-
 header {
     background-color: #3a3a3a;
     color: #fff;
@@ -100,4 +96,29 @@ header {
     float: right;
     padding-right: 30px;
     
+}
+
+/* Footer */
+
+footer {
+    height: 75px;
+    width: 100%;
+    background-color: #3a3a3a;
+    color: #fff;
+    font-size: 200%;
+}
+
+#social-media {
+    text-align: center;
+    line-height: 75px;
+}
+
+#social-media li {
+    display: inline;
+    padding: 150px;
+}
+    
+#social-media a {
+    color: #fff;
+    text-decoration: none;
 }

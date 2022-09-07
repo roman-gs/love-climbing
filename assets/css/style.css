@@ -20,6 +20,15 @@ h1 {
     letter-spacing: 4px;
 }
 
+h1 a {
+    text-decoration: none;
+}
+
+header {
+    background-color: #3a3a3a;
+    color: #fff;
+}
+
 #logo {
     float: left;
     font-size: 280%;
@@ -46,11 +55,11 @@ h1 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #fff;
 }
 
 .active {
-    border-bottom:  1px solid #3a3a3a;
+    border-bottom:  1px solid #fff;
 }
 
 /* Home image & quote*/

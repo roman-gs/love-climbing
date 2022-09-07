@@ -52,3 +52,43 @@ h1 {
 .active {
     border-bottom:  1px solid #3a3a3a;
 }
+
+/* Home image & quote*/
+header {
+    position: relative;
+}
+
+#home-image {
+    height: 900px;
+    width: 100%;
+    clear: both;
+    background: url(../images/climbing2.jpg) no-repeat center center;
+}
+
+#quote {
+    color: #fff;
+    font-family: Oswald, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+    width: 60%;
+    height: 130px;
+
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    background-color: rgba(90, 58, 58, .6);
+
+    bottom: 150px;
+    right: 600px;
+
+    position: absolute;
+}
+
+#greg-child {
+    float: right;
+    padding-right: 30px;
+    
+}

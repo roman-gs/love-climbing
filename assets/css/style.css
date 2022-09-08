@@ -9,7 +9,8 @@
 body {
     font-family: Lato, sans-serif;
     font-weight: 300;
-    color: #3a3a3a;
+    color: #fff;
+    background-color: #3a3a3a;;
 }
 
 /* headings and logo */
@@ -28,6 +29,7 @@ header {
 #logo {
     float: left;
     font-size: 280%;
+    margin-left: 10px;
 }
 
 #menu {
@@ -64,7 +66,7 @@ header {
 }
 
 #home-image {
-    height: 900px;
+    height: 600px;
     width: 100%;
     clear: both;
     background: url(../images/climbing2.jpg) no-repeat center center;
@@ -98,6 +100,12 @@ header {
     
 }
 
+br {
+    height: 75px;
+    width: 100%;
+    background-color: #3a3a3a;
+}
+
 /* Footer */
 
 footer {
@@ -121,4 +129,31 @@ footer {
 #social-media a {
     color: #fff;
     text-decoration: none;
+}
+
+/* Lead, Bouldering and Speed climbing sections */
+
+#disciplines {
+    height: 300px
+}
+
+#left-section {
+    padding-top: 30px;
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+
+#right-section {
+    padding-top: 30px;
+    width: 30%;
+    float: right;
+    text-align: center;
+}
+
+#center-section {
+    padding-top: 30px;
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
 }

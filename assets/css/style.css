@@ -133,6 +133,26 @@ br {
     text-align: center;
 }
 
+/* Images */
+
+#left-img {
+    padding-top: 15px;
+    width: 30%;
+    float: left;
+}
+
+#right-img {
+    padding-top: 15px;
+    width: 30%;
+    float: right;
+}
+
+#center-img {
+    padding-top: 15px;
+    width: 30%;
+    margin: 0 auto;
+}
+
 /* Footer */
 
 footer {

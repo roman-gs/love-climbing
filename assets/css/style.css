@@ -24,6 +24,7 @@ h1 {
 header {
     background-color: #3a3a3a;
     color: #fff;
+    position: relative;
 }
 
 #logo {
@@ -61,9 +62,6 @@ header {
 }
 
 /* Home image & quote*/
-header {
-    position: relative;
-}
 
 #home-image {
     height: 600px;
@@ -88,7 +86,7 @@ header {
 
     background-color: rgba(90, 58, 58, .6);
 
-    bottom: 150px;
+    bottom: 75px;
     right: 600px;
 
     position: absolute;
@@ -110,6 +108,18 @@ br {
 
 #disciplines {
     height: 300px
+}
+
+#disciplines h2 {
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: bold;
+    word-spacing: 10px;
+}
+
+#disciplines p {
+    font-size: 110%;
 }
 
 #left-section {
@@ -161,7 +171,8 @@ footer {
     background-color: #3a3a3a;
     color: #fff;
     font-size: 200%;
-    display: block;
+    padding-top: 30px;
+    display: inline;
 }
 
 #social-media {
@@ -178,4 +189,8 @@ footer {
     color: #fff;
     text-decoration: none;
 }
+
+/* Videos.html */
+
+
 

@@ -147,18 +147,24 @@ br {
 
 #left-img {
     padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 45px;
     width: 30%;
     float: left;
 }
 
 #right-img {
     padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 45px;
     width: 30%;
     float: right;
 }
 
 #center-img {
     padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 45px;
     width: 30%;
     margin: 0 auto;
 }
@@ -170,9 +176,11 @@ footer {
     width: 100%;
     background-color: #3a3a3a;
     color: #fff;
-    font-size: 200%;
-    padding-top: 30px;
+    font-size: 300%;
+    padding-top: 60px;
+    margin-top: 60px;
     display: inline;
+    position: relative;
 }
 
 #social-media {
@@ -191,6 +199,17 @@ footer {
 }
 
 /* Videos.html */
+
+#videos {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.videos-title {
+    padding-top: 30px;
+    padding-bottom: 30px;  
+}
+
 
 
 

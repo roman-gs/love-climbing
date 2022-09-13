@@ -149,6 +149,7 @@ footer {
     color: #fff;
     font-size: 300%;
     padding-top: 45px;
+    bottom: 0;
 }
 
 #social-media {
@@ -220,4 +221,41 @@ footer {
 .join-button:hover {
     background-color: #fafafa;
     color: #f16c6b;
+}
+
+/* Media queries */
+
+/* For large to medium screens sizes from 1050px wide and down */
+@media screen and (max-width: 1050px){
+
+    #disciplines {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    #left-section {
+        width: 100%;
+        float: left;
+        text-align: center;
+        clear: both;
+    }
+    
+    #right-section {
+        width: 100%;
+        float: left;
+        text-align: center;
+        clear: both;
+    }
+    
+    #center-section {
+        width: 100%;
+        float: left;
+        text-align: center;
+        clear: both;
+    }
+
+    #disciplines h2 {
+      border: 3px solid #fff;
+      padding: 3px;
+    }
 }

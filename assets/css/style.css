@@ -35,6 +35,7 @@ header {
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
+    padding-left: 10px;
 }
 
 #menu, #logo {
@@ -119,11 +120,16 @@ header {
     font-size: 110%;
 }
 
+#disciplines h2 i {
+    color:#fff;
+}
+
 #left-section {
     padding-top: 30px;
     width: 30%;
     float: left;
     text-align: center;
+    padding-left: 10px;
 }
 
 #right-section {
@@ -131,6 +137,7 @@ header {
     width: 30%;
     float: right;
     text-align: center;
+    padding-right: 10px;
 }
 
 #center-section {
@@ -239,6 +246,7 @@ footer {
         float: left;
         text-align: center;
         clear: both;
+        
     }
     
     #right-section {
@@ -282,5 +290,23 @@ footer {
     iframe {
         width: 100%;
         height: auto;
+    }
+}
+
+/* For small screens sizes from 340px wide and down */
+
+@media screen and (max-width: 340px){
+
+    #logo {
+        letter-spacing: normal;
+        font-size: 200%;
+    }
+
+    #quote {
+        font-size: x-small;
+    }
+
+    .newsletter-submit h2 {
+        font-size: large;
     }
 }

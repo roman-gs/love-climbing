@@ -278,4 +278,9 @@ footer {
     #quote {
         font-size: small;
     }
+
+    iframe {
+        width: 100%;
+        height: auto;
+    }
 }

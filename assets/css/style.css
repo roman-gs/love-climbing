@@ -226,6 +226,7 @@ footer {
 /* Media queries */
 
 /* For large to medium screens sizes from 1050px wide and down */
+
 @media screen and (max-width: 1050px){
 
     #disciplines {
@@ -257,5 +258,24 @@ footer {
     #disciplines h2 {
       border: 3px solid #fff;
       padding: 3px;
+    }
+}
+
+/* For medium to small screens sizes from 760px wide and down */
+
+@media screen and (max-width: 760px){
+
+    #logo {
+        letter-spacing: normal;
+    }
+
+    #menu {
+        float: left;
+        letter-spacing: normal;
+        clear: both;
+    }
+
+    #quote {
+        font-size: small;
     }
 }

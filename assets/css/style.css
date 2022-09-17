@@ -183,6 +183,21 @@ footer {
     padding-bottom: 30px;  
 }
 
+#ifsc-channel {
+    width: 100%;
+    text-align: center;   
+}
+
+#ifsc-channel a {
+    text-decoration: none;
+    color: inherit;
+    font-family: lato, sans-serif;
+    font-size: 150%;
+    font-weight: bold;
+    border-bottom: 2px solid #fff;
+}
+
+
 /* newsletter.html */
 
 .newsletter-submit {

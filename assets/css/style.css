@@ -222,6 +222,21 @@ footer {
     color: #f16c6b;
 }
 
+/* Thank you page */
+
+#thank-you {
+    clear: both;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: 300;
+    font-size: 280%;
+    height: 1000px;
+    line-height: 900px;
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
 /* Media queries */
 
 /* For large to medium screens sizes from 1050px wide and down */
@@ -263,7 +278,12 @@ footer {
     }
 
     #disciplines h2 {
-      border: 3px solid #fff;
+        border: 3px solid #fff;
+    }
+
+    #thank-you {
+        height: 500px;
+        line-height: 500px;      
     }
 }
 
@@ -289,7 +309,13 @@ footer {
         width: 100%;
         height: auto;
     }
+
+    #thank-you {
+        height: 400px;
+        line-height: 400px; 
+    }
 }
+
 
 /* For small screens sizes from 340px wide and down */
 

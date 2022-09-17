@@ -74,7 +74,7 @@ header {
 #home-image {
     height: 600px;
     width: 100%;
-    background: url(../images/climbing2.jpg) no-repeat center center;
+    background: url(../images/climbing.jpg) no-repeat center center;
 }
 
 #quote {
@@ -235,6 +235,12 @@ footer {
 /* For large to medium screens sizes from 1050px wide and down */
 
 @media screen and (max-width: 1050px){
+
+    #home-image {
+        height: 600px;
+        width: 100%;
+        background: url(../images/climbing-medium.jpg) no-repeat center center;
+    }
 
     #disciplines {
         width: 90%;

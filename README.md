@@ -131,6 +131,8 @@ The site was deployed to [GitHub pages](https://github.com/roman-gs).
 - The image in the header was taken from [Pexel](https://www.pexels.com/)
 - The text in the Disciplines section was taken from [Wikipedia](https://www.wikipedia.org)
 - The videos are taken from the official [IFSC Youtube channel](https://www.youtube.com/c/sportclimbing/videos)
+- All icons coming from [Fontawesome](https://fontawesome.com/)
+- Fonts coming from [Google-fonts](https://fonts.google.com/)
 
 ### Code:
 

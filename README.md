@@ -34,7 +34,25 @@ You can find the Github repository [here](https://github.com/roman-gs/love-climb
 
 - ### The "Disciplines" section:
 
+    - This section contains three short paragraphs outlining with plain words the main differences between the three main disciplines
+
+        1. Lead climbing
+        2. Speed climbing
+        3. Bouldering
+
+    ![Disciplines-section](/assets/readme-images/disciplines-section.jpg)
+
 - ### The social media links:
+
+    - This section contains three icons to the main social medias that will open in a new window when clicked:
+
+        - a link to the developer's linkedin profile
+        - a link to Facebook home page since the website doesn't actually have a Facebook account
+        - a link to Instagram  home page since the website doesn't actually have a Facebook account
+
+    - It is showing on all 4 pages of the website
+
+    ![Social-media-links](/assets/readme-images/social-media.jpg)
 
 - ### The Videos:
 

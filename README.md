@@ -6,25 +6,39 @@ It was developped as part of the the first module in the Full Stack Software Dev
 
 ![Multi-device-test](/assets/readme-images/amiresponsive.jpg)
 
-## Repository 
+## Repository:
 
 You can find the Github repository [here](https://github.com/roman-gs/love-climbing).
 
 ***
 
-## Features
+## Features:
 
-### The logo & Nav bar
+- ### The Navigation bar:
 
-### The main image & quote
+    - Featured at the top of all 4 pages (Home, Videos, Newsletter & Thank you), it contains:
 
-### The "Disciplines" section 
+        - on the left the clickable title for the website that will take the user back to the Home page
+        - on the right, the links to the different pages of the website
+    
+    - The active page title is underline to help the user better navigate the website
 
-### The social media links
+    ![Navigation-bar-image](/assets/readme-images/navbar.jpg)
 
-### The Videos
+- ### The main image & quote:
 
-### The newsletter sign up form
+    - The main image represents a climber who raises their arms after arriving at the top of the montain. It's present on all pages of the website except for the "Thank you" page.
+    - It is accompanied by an inspirational quote about climbing
+
+    ![Main-image-and-quote](/assets/readme-images/main-image-quote.jpg)
+
+- ### The "Disciplines" section:
+
+- ### The social media links:
+
+- ### The Videos:
+
+- ### The newsletter sign up form:
 
 ***
 

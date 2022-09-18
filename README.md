@@ -120,15 +120,21 @@ You can find the Github repository [here](https://github.com/roman-gs/love-climb
 
 ## Deployment:
 
-The site was deployed to GitHub pages. 
+The site was deployed to [GitHub pages](https://github.com/roman-gs). 
+
+***
 
 ## Credits:
 
-### Content:
+### Content & Media:
 
-### Media:
+- The image in the header was taken from [Pexel](https://www.pexels.com/)
+- The text in the Disciplines section was taken from [Wikipedia](https://www.wikipedia.org)
+- The videos are taken from the official [IFSC Youtube channel](https://www.youtube.com/c/sportclimbing/videos)
 
 ### Code:
+
+- Code was mostly taken from what I've learned in the Code Institute HTML & CSS Essentials course including the Love Running project walkthrough. 
 
 
 

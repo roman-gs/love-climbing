@@ -63,16 +63,20 @@ You can find the Github repository [here](https://github.com/roman-gs/love-climb
 
 - ### The newsletter sign up form:
 
-    - The form as a title a submit button and three required fields:
+    - The form as a title, a submit button and three required fields:
         - First name 
         - Last name 
         - Email (will only accept an email)
+    - It brings you to a "Thank You" page once successfully submitted. 
 
     ![Sign-up-form](/assets/readme-images/signup-form.jpg)
+    ![Thank-you](/assets/readme-images/thank-you.jpg)
 
 ***
 
 ## Testings
+
+    - I tested that this page works on different browsers: Chrome, Safari and Firefox
 
     - 
 

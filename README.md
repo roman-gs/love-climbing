@@ -54,13 +54,27 @@ You can find the Github repository [here](https://github.com/roman-gs/love-climb
 
     ![Social-media-links](/assets/readme-images/social-media.jpg)
 
-- ### The Videos:
+- ### The Videos & link to IFSC Youtube channel:
+
+    - This section shows one video (hosted on youtube) per discipline.
+    - After the videos is a link to the official IFSC youtube channel
+
+    ![Videos](/assets/readme-images/videos.jpg)
 
 - ### The newsletter sign up form:
+
+    - The form as a title a submit button and three required fields:
+        - First name 
+        - Last name 
+        - Email (will only accept an email)
+
+    ![Sign-up-form](/assets/readme-images/signup-form.jpg)
 
 ***
 
 ## Testings
+
+    - 
 
 ***
 

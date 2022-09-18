@@ -74,40 +74,53 @@ You can find the Github repository [here](https://github.com/roman-gs/love-climb
 
 ***
 
-## Testings
+## Testings:
 
-    - I tested that this page works on different browsers: Chrome, Safari and Firefox
+- I tested that this page works on different browsers: Chrome, Safari and Firefox
 
-    - 
+- I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the DevTools device toolbar
 
-***
+- I confirmed that the links in the navigation bar and the links to the social media work (social medias open in a new tab of the browser)
 
-## Bugs
+- I confirmed that the videos can be played and the sound works 
 
-
-***
-
-## Validator testings
-
-### HTML
-
-### CSS
-
-### Accessibility
+- I confirm that all the fields of the form work along with the submit button and successfully completing the form takes the user to the "Thank you" page
 
 ***
 
-## Deployment
+## Bugs:
+
+### Solved:
+
+- Found a bug where the "Hero" didn't appear on the image when the website was visited from a medium or small screen. 
+
+    - Fixed by uploading a resized version of the same picture with new media queries for medium and small screens.
+
+    ![Bug-image](/assets/readme-images/bug.jpg)
+
+***
+
+## Validator testings:
+
+### HTML:
+
+### CSS:
+
+### Accessibility:
+
+***
+
+## Deployment:
 
 The site was deployed to GitHub pages. 
 
-## Credits 
+## Credits:
 
-### Content 
+### Content:
 
-### Media 
+### Media:
 
-### Code
+### Code:
 
 
 

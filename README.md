@@ -104,9 +104,17 @@ You can find the Github repository [here](https://github.com/roman-gs/love-climb
 
 ### HTML:
 
+- No errors or warning were returned when passing through the [W3C validator](https://validator.w3.org/)
+
 ### CSS:
 
+- No errors or warning were returned when passing through the [W3C CSS validator](https://jigsaw.w3.org/css-validator/)
+
 ### Accessibility:
+
+- Scored all greens using Lighthouse in Devtools.
+
+![Lighthouse](/assets/readme-images/lighthouse.jpg)
 
 ***
 

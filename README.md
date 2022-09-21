@@ -122,6 +122,27 @@ You can find the Github repository [here](https://github.com/roman-gs/love-climb
 
 The site was deployed to [GitHub pages](https://github.com/roman-gs). 
 
+### To deploy to GitHub Pages:
+- Log into GitHub and locate the repository
+- Navigate to the "Settings" tab 
+- Click on "Pages" on the left pane
+- Select "Main" in the drop-down menu called "Branch" 
+- Click on "Save"
+
+### To Fork the Repository:
+- Log into GitHub and locate the repository
+- Click on "Fork" in the top right corner 
+- Select "Create Fork"
+
+### To create a local Clone:
+- Log into GitHub and locate the repository
+- Open the "Code" drop-down menu in the top right corner
+- Copy the URL from under the HTTPS tab
+- In your IED, open Terminal.
+- Change the current working directory to the location where you want the cloned directory.
+- Type git clone, and then paste the URL you copied earlier.
+- Press "Enter" to create your local clone.
+
 ***
 
 ## Credits:
@@ -137,39 +158,4 @@ The site was deployed to [GitHub pages](https://github.com/roman-gs).
 ### Code:
 
 - Code was mostly taken from what I've learned in the Code Institute HTML & CSS Essentials course including the Love Running project walkthrough. 
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

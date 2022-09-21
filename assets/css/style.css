@@ -195,14 +195,14 @@ footer {
 /* newsletter.html */
 
 .newsletter-submit {
-    margin: 30px 10% 0 0;
+    margin: 0 auto;
     color: #fff;;
     max-width: 600px;
-    left: 10%;
     padding: 30px;   
 }
 
-.signup-form h2 {
+.newsletter-submit h2 {
+    text-align: center;
     color: #fafafa;
 }
 
@@ -213,14 +213,15 @@ footer {
     height: 25px;
     margin: 5px 0 20px 0;
     border: 1px solid #fafafa;
-    border-radius: 2px;
+    border-radius: 2px; 
 }
 
 .text-input:hover {
     border-color: #f16c6b;
 }
 
-.join-button {
+.submit-button {
+    margin: 0 auto;
     margin-top: 20px;
     border-radius: 2px;
     padding: 15px 32px;
@@ -231,7 +232,7 @@ footer {
     display: block;
 }
 
-.join-button:hover {
+.submit-button:hover {
     background-color: #fafafa;
     color: #f16c6b;
 }

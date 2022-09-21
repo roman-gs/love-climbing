@@ -245,7 +245,7 @@ footer {
     text-align: center;
     font-weight: 300;
     font-size: 280%;
-    height: 1000px;
+    height: 80hv;
     line-height: 900px;
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
@@ -294,11 +294,6 @@ footer {
     #disciplines h2 {
         border: 3px solid #fff;
     }
-
-    #thank-you {
-        height: 500px;
-        line-height: 500px;      
-    }
 }
 
 /* For medium to small screens sizes from 760px wide and down */
@@ -325,8 +320,8 @@ footer {
     }
 
     #thank-you {
-        height: 400px;
-        line-height: 400px; 
+        height: 500px;
+        line-height: 500px;  
     }
 }
 

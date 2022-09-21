@@ -72,7 +72,6 @@ header {
     height: 600px;
     width: 100%;
     overflow: hidden;
-
     position: relative;   
 }
 
@@ -89,23 +88,17 @@ header {
     text-transform: uppercase;
     letter-spacing: 2px;
     font-size: medium;
-
     width: 60%;
     height: auto;
-
     padding-top: 10px;
     padding-left: 10px;
-
     background-color: rgba(90, 58, 58, .8);
-
     bottom: 15px;
     left: 15px;
-
     position: absolute;
 }
 
 /* Lead, Bouldering and Speed climbing sections */
-
 
 #disciplines h2 {
     font-family: Oswald, sans-serif;
@@ -198,7 +191,6 @@ footer {
     border-bottom: 2px solid #fff;
 }
 
-
 /* newsletter.html */
 
 .newsletter-submit {
@@ -279,8 +271,7 @@ footer {
         width: 100%;
         float: left;
         text-align: center;
-        clear: both;
-        
+        clear: both;    
     }
     
     #right-section {

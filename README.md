@@ -1,8 +1,8 @@
 # Portfolio Project 1 - HTML/CSS Essentials: Discover Climbing
 
-[Discover Climbing](https://roman-gs.github.io/love-climbing/index.html) is a website intended to explain the differences between the three main discplines of sport climbing. It allows climbing enthusiasts to get a better understanding of each discipline's characteristics and subscribe to the website newletter. Visitors can also watch professional climbers perform their art in the Videos section. 
+[Discover Climbing](https://roman-gs.github.io/love-climbing/index.html) is a website intended to explain the differences between the three main disciplines of sport climbing. It allows climbing enthusiasts to get a better understanding of each discipline's characteristics and subscribe to the website newsletter. Visitors can also watch professional climbers perform their art in the Videos section. 
 
-It was developed as part of  the first module in the Full Stack Software Development course dispensed by the [Code Institute](https://codeinstitute.net), using HTML & CSS.
+It was developed as part of the first module in the Full Stack Software Development course dispensed by the [Code Institute](https://codeinstitute.net), using HTML & CSS.
 
 ![Multi-device-test](/assets/readme-images/amiresponsive.jpg)
 
@@ -21,20 +21,20 @@ You can find the Github repository [here](https://github.com/roman-gs/love-climb
         - on the left the clickable title for the website that will take the user back to the Home page
         - on the right, the links to the different pages of the website
     
-    - The active page title is underline to help the user better navigate the website
+    - The active page title is underlined to help the user better navigate the website
 
     ![Navigation-bar-image](/assets/readme-images/navbar.jpg)
 
 - ### The main image & quote:
 
-    - The main image represents a climber who raises their arms after arriving at the top of the montain. It's present on all pages of the website except for the "Thank you" page.
+    - The main image represents a climber who raises their arms after arriving at the top of the mountain. It's present on all pages of the website except for the "Thank you" page.
     - It is accompanied by an inspirational quote about climbing
 
     ![Main-image-and-quote](/assets/readme-images/main-image-quote.jpg)
 
 - ### The "Disciplines" section:
 
-    - This section contains three short paragraphs outlining with plain words the main differences between the three main disciplines
+    - This section contains three short paragraphs outlining in plain words the main differences between the three main disciplines
 
         1. Lead climbing
         2. Speed climbing
@@ -44,13 +44,13 @@ You can find the Github repository [here](https://github.com/roman-gs/love-climb
 
 - ### The social media links:
 
-    - This section contains three icons to the main social medias that will open in a new window when clicked:
+    - This section contains three icons for the main social media that will open in a new window when clicked:
 
-        - a link to the developer's linkedin profile
+        - a link to the developer's Linkedin profile
         - a link to Facebook home page since the website doesn't actually have a Facebook account
         - a link to Instagram  home page since the website doesn't actually have a Facebook account
 
-    - It is showing on all 4 pages of the website
+    - They are shown on all 4 pages of the website
 
     ![Social-media-links](/assets/readme-images/social-media.jpg)
 
@@ -63,7 +63,7 @@ You can find the Github repository [here](https://github.com/roman-gs/love-climb
 
 - ### The newsletter sign up form:
 
-    - The form as a title, a submit button and three required fields:
+    - The form has a title, a submit button and three required fields:
         - First name 
         - Last name 
         - Email (will only accept an email)
@@ -80,7 +80,7 @@ You can find the Github repository [here](https://github.com/roman-gs/love-climb
 
 - I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the DevTools device toolbar
 
-- I confirmed that the links in the navigation bar and the links to the social media work (social medias open in a new tab of the browser)
+- I confirmed that the links in the navigation bar and the links to the social media work (social media open in a new tab of the browser)
 
 - I confirmed that the videos can be played and the sound works 
 
@@ -104,11 +104,11 @@ You can find the Github repository [here](https://github.com/roman-gs/love-climb
 
 ### HTML:
 
-- No errors or warning were returned when passing through the [W3C validator](https://validator.w3.org/)
+- No error or warning were returned when passing through the [W3C validator](https://validator.w3.org/)
 
 ### CSS:
 
-- No errors or warning were returned when passing through the [W3C CSS validator](https://jigsaw.w3.org/css-validator/)
+- No error or warning were returned when passing through the [W3C CSS validator](https://jigsaw.w3.org/css-validator/)
 
 ### Accessibility:
 
